@@ -6,10 +6,10 @@ This chat app was made just for learning how sockets work.This is not perfect an
 ## Setup
 This was set up using python3 and a few built in python modules 
 ### Modules used
-socket
-threading
-argparse
+* socket  
+* threading  
+* argparse  
 
 ## usage
-Start server: `python3 server.py -p <port>` server runs on localhost by default
-Start client(s) : `python3 client.py -ip <ip of server> -p <port>`
+Start server: `python3 server.py -p <port>` server runs on localhost by default  
+Start client(s) : `python3 client.py -ip <ip of server> -p <port>`  
